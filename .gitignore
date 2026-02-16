@@ -1,0 +1,19 @@
+# AI/ML Specific
+nexus_db/
+processed_registry.json
+uploads/*.pdf
+
+# Environment & Keys
+.env
+.venv/
+node_modules/
+
+# Python junk
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# OS specific
+.DS_Store
+Thumbs.db
